@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Title12345",
+        "content": "Enginering",
+        "short description ": "DEscrp",
+        "author": "DEvika",
+        "publisher date": "2015-01-01",
+        "category ": "Medical"
+    },
+    {
+        "id": 2,
+        "title": "title1",
+        "content": "content16436346",
+        "short description ": "1234355",
+        "author": "Surya",
+        "publisher date": "2019-04-05",
+        "category ": "Technology"
+    },
+    {
+        "id": 3,
+        "title": "title16346",
+        "content": "content15435",
+        "short description ": "desc2324214",
+        "author": "Priya",
+        "publisher date": "2020-08-01",
+        "category ": "Food"
+    },
+    {
+        "id": 4,
+        "title": "title13463",
+        "content": "content1",
+        "short description ": "gtrygrbfd",
+        "author": "Lokesh",
+        "publisher date": "2010-10-01",
+        "category ": "Engineering"
+    }
+   
+]
